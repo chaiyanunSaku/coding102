@@ -1,4 +1,4 @@
-# ICCS102 Coding Practice
+# ICCS102 Coding for All
 
 Hey, SpongeBob here! This repo will help you with coding for **ICCS102**.
 

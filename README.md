@@ -11,6 +11,7 @@ Hey, SpongeBob here! This repo will help you with coding for **ICCS102**.
 | `assessment_1/` | Coding Skills Assessment 1: the problem sheet (PDF) plus solutions `f01` to `f15` and a bonus problem |
 | `debugging/` | A step-by-step [PyCharm debugging walkthrough](debugging/debug.md) with two buggy programs to practise on (`average_bug.py`, `grade_bug.py`) |
 | `dict/` | Dictionary basics: lecture notes (PDF) and a worked example (`dict_example.py`) |
+| `class/` | Class basics: lecture notes (PDF) and a worked example (`bikini_bottom.py`) that defines a `Citizen` class |
 
 ## How to use it
 
